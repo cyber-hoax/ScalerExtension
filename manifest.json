@@ -1,0 +1,14 @@
+{
+    "name" : "scaler ",
+    "description" : "scaler extension to post the question in github",
+    "version" : "0.01",
+    "manifest_version": 3,
+    "icons" : {
+        "128" : "img/image128.png",
+        "48" : "img/images48.png",
+        "16" : "img/image16.png"
+    },"action" : {
+        "default_icon" : "img/image16.png",
+        "default_popup" : "popup.html"
+    }
+}
